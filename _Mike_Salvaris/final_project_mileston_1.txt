@@ -1,0 +1,20 @@
+**
+Final project Milestone 1 by Mike Salvaris
+
+Description:
+- A site that lets you declare a workout goal with your friends and post pictures to show evidence that you have compete is
+
+Target audience: 
+- groups of friends and families separated by distance
+
+Functionality:
+- Login
+- Declare fitness goal (e.g., workout 3 times a week), to be assigned to your profile
+- nominate people (other users) to be in your private group (invitation via email)
+- chat with other users of your private group
+- Enter evidence of your workout completed (upload photo) 
+- See evidence of workout (photos) posted by other members of your private group
+- integration with Fitbit API to pull data relating to your exercise to post to your group
+- function that keeps track of how you and your friends are progressing against your declared goals (i.e., workout X times a week)
+
+
